@@ -1,2 +1,3 @@
 a = input ("Введите своё имя:")
-print ("Hello " + a + "!")
+Hello = f"Hello, {a}"
+print (Hello)
